@@ -1,0 +1,186 @@
+/*.igs-pd-0{padding: 0;}
+.igs-mg-0{margin: 0;}
+.igs-txt-deco-none{text-decoration: none;}
+.igs-list-st-ty-none{list-style-type: none;}   
+.igs-box-siz-border-box{box-sizing: border-box;}*/  
+*{ padding: 0;margin: 0;text-decoration: none; list-style-type: none; box-sizing: border-box}
+.igs-font-impactf{font-family:Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif"}
+.igs-font-gill{font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif"}
+
+
+/* *************NAV********************* */
+.igs-hg-50{height: 50px;}
+.igs-txt-shadow{text-shadow: 2px 3px 1px black;}
+.igs-bg-blue{background-color: #0806CC;} /*bleu*/
+.igs-posi-fixed{position: fixed;}
+.igs-txt-alg-center{text-align: center}
+.igs-wd-100{width: 100%;}
+/* ***************NAV******************* */
+
+
+/* ***************UL LI******************* */
+.igs-display-inliblo{display: inline-block}
+.igs-mgr-20{ margin-right: 20px}
+.igs-lineh-50{line-height: 50px}
+.igs-font-w-blod{font-weight: bold}
+/* ***************UL LI******************* */
+
+/* ***************UL LI A******************* */
+.igs-txt-col-white{color: rgba(255,255,255,1.00)} /*blanc*/
+.igs-font-sz-20{font-size: 22px}
+.igs-pd-6{padding: 6px}
+.igs-bord-rad-10{border-radius: 10px}
+.igs-txt-trans-upper{text-transform: uppercase;}
+.igs-hover-font-sz-20:hover{font-size: 20px;}
+.igs-hover-bg-orange:hover{background: rgba(237,141,18,1.00);}
+.igs-bg-orange{background:rgba(237,141,18,1.00)} /*orange*/
+/* ***************UL LI A******************* */
+
+/*******************ACCUEIL****************************/
+.igs-hg-190{height: 190px}
+.igs-bg-gris{background:rgba(181,181,181,1.00)} /*gris*/
+.igs-pdt-50p{padding-top: 50px;}
+.igs-brd-top-8n{border-bottom: 8px solid black;} 
+.igs-txt-shadow{text-shadow: 4px 1px 2px #000;}  
+.igs-font-sz-4em{font-size: 4em;}
+.igs-txt-col-gris{color: rgba(243, 245, 243, 0.7);}
+.igs-hover-hg-190:hover{height: 190px;}
+.igs-hover-txt-white:hover{color: rgba(243, 245, 243, 0.911);} 
+.igs-font-sz-40{font-size: 40px;}
+/*******************ACCUEIL****************************/
+
+/**************************************SECTION 1***************************************/
+
+/*section*/
+.igs-hg-310{height: 310px;}
+.igs-brd-top-10w{border-top: 10px solid #fff;}
+.igs-mgt--10{margin-top: -10px;}
+/*section*/
+
+/*propos*/
+.igs-display-flex{display: flex;}
+.igs-txt-col-black{color: #000000;}
+.igs-flx-wrp-wrap{flex-wrap:wrap;}
+.igs-jstfy-cntnt-space-between{justify-content: space-between;}
+.igs-hg-220{height: 220px;}
+.igs-hg-240{height: 240px;}
+.igs-wd-auto{width: auto;}
+.igs-mgt--20{margin-top: -20px;}
+.igs-mgb-10{margin-bottom: 10px;}
+.igs-pdt-10{margin-bottom: 10px;}
+.igs-pdb-20{padding-bottom: 20px;}
+.igs-box-shadow-1b{box-shadow: 1px 1px 2px 2px black;}
+.igs-font-sz-18{font-size: 18px}
+.igs-hg-180{height: 180px}
+/*propos*/
+                    
+
+/*#photo*/
+.igs-mgt-10{margin-top: 10px;}
+.igs-mgt-20{margin-top: 20px;}
+.igs-mgl-10{margin-left: 10px;}
+.igs-mgb-20{margin-bottom: 20px;}
+.igs-mgb-10{margin-bottom: 10px;}
+.igs-bord-rad-50{border-radius: 50%;}
+.igs-box-shadow-2{box-shadow: 2px 2px 1px 1px;}
+.igs-hg-196{height: 196px}
+.igs-wd-200{width: 200px}
+/*#photo*/
+ 
+/*description*/
+.igs-mgr-10{margin-right: 10px;}
+.igs-mgt-20{margin-top: 20px;}
+.igs-pd-10{padding: 10px;}
+.igs-wd-60{width: 60%;}
+.igs-wd-70{width: 70%;}
+.igs-hg-150{height: 150px;}
+.igs-hg-160{height: 160px;}
+.igs-txt-col-blue{color:#0806CC}
+.igs-hover-hg-185:hover{height: 185px;}
+.igs-hover-wd-62:hover{width: 62%;}
+.igs-hover-wd-70:hover{width: 70%;}
+.igs-hover-bg-white:hover{background:#fff;}
+/*description*/
+
+/*****************************************SECTION 2******************************************************/
+.igs-hg-410{height: 410px;}
+.igs-brd-top-1n{border-top: 1px solid #000000;}
+.igs-hover-brd-top-4lu:hover{border-top:  4px solid #0719E1;}
+.igs-hover-brd-bot-4lu:hover{border-bottom: 4px solid #0719E1;}
+.igs-hover-brd-rad-22lu:hover{border-radius: 22px;}
+.igs-hover-brd-rad-0:hover{border-radius: 0px;}
+
+/******/
+.igs-hg-100{height: 100px;}
+.igs-mg-20{margin: 20px}
+.igs-bord-rad-0{border-radius: 0px}
+.igs-hover-hg-120:hover{height: 120px;}
+.igs-hover-mgt-30:hover{margin-top: 30px;}
+.igs-hover-box-shadow-2lu:hover{box-shadow:2px 2px 3px 3px #0719E1;}
+
+/*********************************************OTHERS********************************/
+.igs-font-sz-28px{font-size: 28px;}	
+.igs-txt-shadow-2b{text-shadow: 2px 3px 1px black;}
+.igs-mgb-30{margin-bottom: 30px}
+
+.igs-jstfy-cntnt-center{justify-content: center} 
+.igs-hg-33{height: 33px;}
+.igs-hover-bg-blue:hover{background-color:#0806CC; }
+.igs-txt-shadow-wht{text-shadow: 2px 3px 1px #fff}
+.igs-hover-txt-shadow-b:hover{text-shadow: 2px 3px 1px #000000}
+
+
+
+/**************************************SECTION 3***************************************/
+/*******/
+.igs-hg-450{height: 450px;}
+.igs-hg-60{height: 60px;}
+.igs-hg-80{height: 80px;}
+.igs-hg-40{height: 40px;}
+.igs-mg-10{margin:10px;}
+/*******/
+.igs-hg-325{height: 320px}
+.igs-hover-bg-whsky:hover{background:#E4E4E4}
+.igs-hover-brd-lft-5lu:hover{border-left: 5px solid #0E07B8;}
+.igs-hover-brd-rgt-5lu:hover{border-right: 5px solid #0E07B8}
+.igs-bord-rad-20{border-radius: 20px}
+/******/
+
+/**************************************SECTION 3***************************************/
+
+
+/**************************************DONWLOAD BUTTON***************************************/
+.igs-hg-20{height: 20px}
+.igs-hover-pdt-6:hover{padding-top: 6px}
+.igs-hover-font-sz-22:hover{font-size: 25px}
+.igs-hover-pdb-4:hover{padding-bottom: 4px;}
+.igs-hover-trans-easse_out:hover{transition:ease-out .5s}
+/**************************************DONWNLOAD BUTTON***************************************/
+
+
+/**************************************FOOTER***************************************/
+.igs-hg-210{height: 210px;}
+.igs-mgt-30{margin-top: 30px}
+.igs-pdt-20{padding-top: 20px}
+.igs-hover-hg-240:hover{height: 240px;}
+.igs-hover-brd-rad-40:hover{border-radius: 40%;}
+.igs-hover-bg-blue:hover{background-color: #0410E9;}
+.igs-hover-mgt-30:hover{margin-top: 30px}
+.igs-hover-mg-30:hover{margin: 30px}
+.igs-hover-pdt-20:hover{padding-top: 20px}
+.igs-hover-hg-90:hover{height: 90px}
+.igs-hover-mg-10:hover{margin: 10px}
+
+/**************************************FOOTER***************************************/
+
+
+
+
+
+
+
+
+
+
+
+
